@@ -1,41 +1,37 @@
-###  Hi 👋
-## I'm Tekena Tariah
-###### Software Developer | Tech Enthusiast| Problem Solver
-
+###  Hi there 👋
+## I'm *Tekena Tariah*
+###### Software Developer | Tech Enthusiast | Problem Solver
 ---
 ### About Me
-- 🌱 I’m learn daily.
-- 👨‍💻 I’m code to solve problems.
-
-### Reach Me
+##### 🌱 *I learn today so I can do yesterday's task better by tomorrow.* 🌱
+- __Email__: brilliant619876@gmail.com
+- __Phone__: <span style="color: #00ff00">+234 7034446241</span>
 - __Facebook__: [Tekena Tariah](https://www.facebook.com/tariah.tekena)
 - __Whatsapp__: [Me](https://wa.me/2347034446241)
-- __Email__: brilliant619876@gmail.com
-- __Phone__: <span style="color: #006f00">+2347034446241</span>
-
+- ---
 ### My Tools
 - Machine Learning
 - Kotlin | Android
 - Dart | Flutter
-- Vue.js
+- Firebase
 - Python
-- JavaScript
-- HTML | CSS
+- Vue.js
+- HTML | CSS | JavaScript
+----
+### My Works
+|  | Area            | Description  | Tools Used |
+|--| --------------- | --------- |-------------|
+| 🍴 | Restaurant     | A Food Ordering/Delivery app | Dart, Flutter, Firebase|
+| 🛢️ | Oil Industry   | A static website and a PWA for Oil Servicing | HTML, CSS, JavaScript, Vue.js|
+| ♻️| Recycling       | A mobile app for a Recycling organisation| Vue.js, Firebase |
+| ⛪| Worship         | A mobile app for worship| Kotlin, Android, Firebase|
+| ⚕️ | Health Care   | Data Management Solutions | Google Sheets, Apps Script|
+
+---
+###### Thanks for visiting my page.
+---
 
 <!---
 TekenaTariah/TekenaTariah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-###### Thanks for visiting my page.
