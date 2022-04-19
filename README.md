@@ -3,7 +3,7 @@
 ###### Software Developer | Tech Enthusiast | Problem Solver
 ---
 ### About Me
-##### 🌱 *I learn today so I can do yesterday's task better by tomorrow.* 🌱
+#### 🌱 *I learn today so I can do yesterday's task better by tomorrow.* 🌱
 - __Email__: brilliant619876@gmail.com
 - __Phone__: <span style="color: #00ff00">+234 7034446241</span>
 - __Facebook__: [Tekena Tariah](https://www.facebook.com/tariah.tekena)
